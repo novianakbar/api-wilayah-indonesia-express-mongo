@@ -1,6 +1,6 @@
 # Indonesia-Region-MongoDB
 
-Repositori ini terinspirasi dari package laravel [laravolt/indonesia](https://github.com/laravolt/indonesia) yang mengumpulkan semua data berupa (Provinsi, Kabupaten/Kota, Kecamatan dan Desa) di seluruh Indonesia dalam bentuk `mongodb`
+Repositori API ini mengumpulkan semua data berupa (Provinsi, Kabupaten/Kota, Kecamatan dan Desa) di seluruh Indonesia dalam bentuk `mongodb`
 
 Data `csv` diperoleh dari repo [edwardsamuel/Wilayah-Administratif-Indonesia](https://github.com/edwardsamuel/Wilayah-Administratif-Indonesia)
 
