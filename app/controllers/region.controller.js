@@ -54,7 +54,7 @@ exports.getProvince = async (req, res) => {
     .then((result) => {
       res.status(200).send({
         status: true,
-        message: "Data Province",
+        message: "Data Regency in Province",
         data: result,
       });
     })
@@ -110,7 +110,7 @@ exports.getRegency = async (req, res) => {
     .then((result) => {
       res.status(200).send({
         status: true,
-        message: "Data Regency",
+        message: "Data District in Regency",
         data: result,
       });
     })
@@ -174,7 +174,7 @@ exports.getDistrict = async (req, res) => {
     .then((result) => {
       res.status(200).send({
         status: true,
-        message: "Data District",
+        message: "Data Village in District",
         data: result,
       });
     })
@@ -235,7 +235,7 @@ exports.getVillage = async (req, res) => {
     .then((result) => {
       res.status(200).send({
         status: true,
-        message: "Data Village",
+        message: "Detail Data Village",
         data: result,
       });
     })
