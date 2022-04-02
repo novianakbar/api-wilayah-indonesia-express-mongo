@@ -67,3 +67,4 @@ build/
 .DS_Store
 
 .idea
+.vercel

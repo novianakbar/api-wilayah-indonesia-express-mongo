@@ -4,6 +4,10 @@ Repositori API ini mengumpulkan semua data berupa (Provinsi, Kabupaten/Kota, Kec
 
 Data `csv` diperoleh dari repo [edwardsamuel/Wilayah-Administratif-Indonesia](https://github.com/edwardsamuel/Wilayah-Administratif-Indonesia)
 
+Akses Live API Kami Disini
+
+[https://api-indonesia.nvapp.my.id](https://api-indonesia.nvapp.my.id)
+
 ## Quick Start
 
 Ubah nama file .env-example menjadi .env
